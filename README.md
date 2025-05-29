@@ -1,7 +1,5 @@
 # Task-2 – Dynamic To-Do List
 
-🚀 **Internship Assignment Task 2**
-
 ### 🎯 Objective
 Create a dynamic To-Do list where users can add, remove, and mark tasks as complete.
 
